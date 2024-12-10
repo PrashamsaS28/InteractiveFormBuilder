@@ -1,8 +1,34 @@
-# React + Vite
+Setup Instructions
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1.Clone the repository
+2.Change directory(cd Form)
+3.Install packages with npm
+4.Run the project with the command 'npm run dev'
+5.Open local host
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technology Choices
+
+1.VS Code
+2.Github for version control
+3.Bootstrap
+4.React JS
+5.CSS
+
+
+Known limitations
+
+1.DesignInterface
+2.Cannot delete the components
+3.Cannot Resize the components
+
+Future Improvements
+
+A lot can be done to improve the project. This is just a basic demo of interactive form builder.
+Improvements can be on:
+
+1.Design and Colors
+2.UI/UX
+3.Mobile Responsive
+4.Delete option for components
+5.Resizable components
